@@ -1,8 +1,8 @@
 {
-    "name": "arcanedev/localization",
+    "name": "krjohnston/localization",
     "description": "Localization Package for Laravel",
     "keywords": [
-        "arcanedev",
+        "krjohnston",
         "laravel",
         "localization",
         "localisation",
